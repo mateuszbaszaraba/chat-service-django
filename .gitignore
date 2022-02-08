@@ -1,2 +1,3 @@
 chat/migrations
 db.sqlite3
+venv
